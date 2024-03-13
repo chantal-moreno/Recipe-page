@@ -14,12 +14,12 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ### Screenshot
 
-![design\Scrennshot - Frontend Mentor - Recipe page - Solution.png](./screenshot.jpg)
+![](design\Screenshot.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/chantal-moreno/Recipe-page.git](https://github.com/chantal-moreno/Recipe-page.git)
+- Live Site URL: [https://chantal-moreno.github.io/Recipe-page/](https://chantal-moreno.github.io/Recipe-page/)
 
 ### Built with
 
